@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2014 Jedi Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources>
+    <string-array name="wallpapers" translatable="false">
+        <item>peaceful</item>
+        <item>raindrop</item>
+        <item>light_beam</item>
+        <item>laser</item>
+        <item>binary</item>
+        <item>quest</item>
+        <item>splash</item>
+        <item>jedi_wallpaper</item>
+        <item>rain</item>
+        <item>slashes</item>
+        <item>swirl</item>
+        <item>static</item>
+        <item>the_never</item>
+        <item>droid_down_under</item>
+        <item>droid_comb</item>
+    </string-array>
+
+    <string-array name="info" translatable="false">
+        <item>Peaceful - Mark Blades</item>
+        <item>Raindrop - Mark Bencze</item>
+        <item>Light beam - Mark Bencze</item>
+        <item>Laser - Mark Bencze</item>
+        <item>Binary - Mark Bencze</item>
+        <item>Quest - Mark Bencze</item>
+        <item>Splash - Mark Bencze</item>
+        <item>Jedi wallpaper - Mark Bencze</item>
+        <item>Rain - Mark Bencze</item>
+        <item>Slashes - Mark Bencze</item>
+        <item>Swirl - Mark Bencze</item>
+        <item>Static - Mark Bencze</item>
+        <item>The never - Mark Bencze</item>
+        <item>Droid down under - Mark Bencze</item>
+        <item>Droid comb - Mark Bencze</item>
+    </string-array>
+</resources>
